@@ -1,0 +1,6 @@
+Checks: bugprone-*, concurrency-*, cppcoreguidelines-*, misc-*, modernize-*,
+  performance-*, portability-*, readability-*, llvm-*
+
+WarningsAsErrors: true
+
+HeaderFilterRegex: include\/.*

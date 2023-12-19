@@ -1,0 +1,1 @@
+target_sources("JinuxML" PRIVATE "MemoryAllocationError.cpp")

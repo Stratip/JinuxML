@@ -18,7 +18,6 @@ limitations under the License.
 #define CORE_ERRORS_RUNTIMEERRORS_MEMORYALLOCATIONERROR_HPP
 
 #include "../RuntimeError.hpp"
-#include <cstdint>
 #include <memory>
 #include <string>
 #include <string_view>

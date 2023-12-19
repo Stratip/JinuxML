@@ -16,27 +16,5 @@ limitations under the License.
 
 namespace JinuxML::Core {
 
-// template <typename EdgeType, typename VertexType>
-// Graph<EdgeType, VertexType>::Graph() noexcept = default;
-
-// template <typename EdgeType, typename VertexType>
-// Graph<EdgeType, VertexType>::Graph(const Graph<EdgeType, VertexType>& Other
-// ) = default;
-
-// template <typename EdgeType, typename VertexType>
-// auto Graph<EdgeType, VertexType>::
-// operator=(const Graph<EdgeType, VertexType>& /*Other*/)
-//     -> Graph<EdgeType, VertexType>& = default;
-
-// template <typename EdgeType, typename VertexType>
-// Graph<EdgeType, VertexType>::Graph(Graph<EdgeType, VertexType>&& Other
-// ) noexcept = default;
-
-// template <typename EdgeType, typename VertexType>
-// auto Graph<EdgeType, VertexType>::
-// operator=(Graph<EdgeType, VertexType>&& /*Other*/) noexcept
-//     -> Graph<EdgeType, VertexType>& = default;
-
-// template <typename EdgeType, typename VertexType>
-// Graph<EdgeType, VertexType>::~Graph() noexcept = default;
+// Nothing here (yet?)
 } // namespace JinuxML::Core

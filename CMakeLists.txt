@@ -13,8 +13,6 @@ if(DEFINED JinuxML_SHARED_LIBS)
     set(BUILD_SHARED_LIBS "${JinuxML_SHARED_LIBS}")
 endif()
 
-set(CMAKE_COLOR_DIAGNOSTICS ON)
-
 add_subdirectory("src/")
 
 add_executable("main" "main.cpp")
